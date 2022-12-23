@@ -1,2 +1,2 @@
 # Katas
-Every kata I've done
+Every kata I have completed.
