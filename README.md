@@ -1,2 +1,3 @@
 # Katas
-Every kata I have completed.
+A compilation of every kata I have completed.
+Tests have been done using Jest. 
